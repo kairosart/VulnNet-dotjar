@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "PRIVILEGE ESCALATION/SSH First flag.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "SSH First flag"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENUMERATION/Tomcat.md",
+                "file": "PRIVILEGE ESCALATION/SSH First flag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tomcat"
+              "title": "SSH First flag"
             }
           },
           {
@@ -58,17 +58,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLOITATION/Ghostcat exploit.md",
+                "file": "PRIVILEGE ESCALATION/User's privileges.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Ghostcat exploit"
+              "title": "User's privileges"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXPLOITATION/Ghostcat exploit.md",
+                "file": "PRIVILEGE ESCALATION/SSH First flag.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ghostcat exploit"
+              "title": "Outline of SSH First flag"
             }
           },
           {
@@ -260,25 +260,33 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "e1707c2d066b6e61",
+  "active": "49d2e38fa784abc2",
   "lastOpenFiles": [
-    "images/Screenshot_2025-10-16_04-52-48.png",
+    "PRIVILEGE ESCALATION/User's privileges.md",
+    "PRIVILEGE ESCALATION/SSH First flag.md",
+    "EXPLOITATION/Cracking jdk-admin's hash.md",
+    "EXPLOITATION/linPEAS.md",
+    "images/Screenshot_2025-10-17_06-21-29.png",
+    "images/Screenshot_2025-10-17_05-13-22.png",
+    "images/Screenshot_2025-10-17_06-10-10.png",
+    "images/Screenshot_2025-10-17_06-06-16.png",
+    "ENUMERATION/Network map.md",
+    "README.md",
     "EXPLOITATION/Ghostcat exploit.md",
+    "PRIVILEGE ESCALATION",
+    "Untitled",
+    "images/Screenshot_2025-10-17_05-56-20.png",
+    "ENUMERATION/Tomcat.md",
+    "images/Screenshot_2025-10-16_04-52-48.png",
     "images/Screenshot_2025-10-16_05-47-40.png",
     "images/Screenshot_2025-10-16_05-31-50.png",
     "images/Screenshot_2025-10-16_05-26-25.png",
-    "ENUMERATION/Tomcat.md",
     "EXPLOITATION/Ghostcat exploit",
     "EXPLOITATION",
     "images/Screenshot_2025-10-16_05-01-09.png",
-    "ENUMERATION/Network map.md",
-    "images/Screenshot_2025-10-16_04-54-50.png",
     "images",
-    "images/Screenshot_2025-10-15_04-56-18.png",
     "index.md",
     "ENUMERATION",
-    "images/Screenshot from 2025-10-15 10-49-28.png",
-    "README.md",
     "EXPLOITATION/SMB credentials capturing.md",
     "PRIVILEGE ESCALATION/System flag.md",
     "PRIVILEGE ESCALATION/Pipe Impersonation (PrintSpooler).md",
@@ -288,13 +296,9 @@
     "ENUMERATION/Redis.md",
     "ENUMERATION/Network Map.md",
     "docs/lib/metadata.json",
-    "docs/lib/media/6155340132a851f6089e.svg",
     "docs/lib/media",
     "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "docs/lib/fonts/05b618077343fbbd92b7.ttf",
-    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "docs/lib/fonts/454577c22304619db035.ttf",
-    "images/Screenshot_2025-10-07_06-11-30.png",
     "VulnActive/README.md",
     "ENUMERATION/Nmap.md",
     "ENUMERATION/Exploitation Scenarios.md",
