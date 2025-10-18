@@ -1,4 +1,4 @@
-h![[Screenshot from 2025-10-15 10-49-28.png]]
+![[Screenshot from 2025-10-15 10-49-28.png]]
 
 VulnNet Entertainment works with the best and this is why they choose you again to perform a penetration test of their newly deployed service. Get ready!
 
