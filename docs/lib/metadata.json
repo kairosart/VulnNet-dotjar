@@ -1,6 +1,6 @@
 {
   "vaultName": "You Got Mail",
-  "lastExport": 1760810329715,
+  "lastExport": 1760810516194,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -53,157 +53,157 @@
   ],
   "fileInfo": {
     "ENUMERATION/Network map.md": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 1375,
       "exportedPath": "ENUMERATION/Network map.html",
       "dependencies": []
     },
     "ENUMERATION/Tomcat.md": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 1177,
       "exportedPath": "ENUMERATION/Tomcat.html",
       "dependencies": []
     },
     "EXPLOITATION/Cracking jdk-admin's hash.md": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 1433,
       "exportedPath": "EXPLOITATION/Cracking jdk-admin's hash.html",
       "dependencies": []
     },
     "EXPLOITATION/Ghostcat exploit.md": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 2453,
       "exportedPath": "EXPLOITATION/Ghostcat exploit.html",
       "dependencies": []
     },
     "EXPLOITATION/linPEAS.md": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 1464,
       "exportedPath": "EXPLOITATION/linPEAS.html",
       "dependencies": []
     },
     "EXPLOITATION/User flag.md": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 521,
       "exportedPath": "EXPLOITATION/User flag.html",
       "dependencies": []
     },
     "PRIVILEGE ESCALATION/Root flag.md": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 1216,
       "exportedPath": "PRIVILEGE ESCALATION/Root flag.html",
       "dependencies": []
     },
     "PRIVILEGE ESCALATION/User's privileges.md": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 200,
       "exportedPath": "PRIVILEGE ESCALATION/User's privileges.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1760810329715,
-      "sourceSize": 834,
+      "modifiedTime": 1760810516194,
+      "sourceSize": 835,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "README.md": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 4397,
       "exportedPath": "README.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/293fd13dbca5a3e450ef.woff2": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 105924,
       "exportedPath": "lib/fonts/293fd13dbca5a3e450ef.woff2",
       "dependencies": []
     },
     "lib/fonts/085cb93e613ba3d40d2b.woff2": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 112184,
       "exportedPath": "lib/fonts/085cb93e613ba3d40d2b.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1760810329715,
+      "modifiedTime": 1760810516194,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
